@@ -1,0 +1,17 @@
+{
+  "base": "svg",
+  "aliases": [
+    "icon-alias",
+    "icon-alias2"
+  ],
+  "categories": [
+    "Hosting"
+  ],
+  "update": {
+    "timestamp": "2025-01-05T19:12:47.114662",
+    "author": {
+      "id": 63781622,
+      "login": "Meierschlumpf"
+    }
+  }
+}
