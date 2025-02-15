@@ -1,0 +1,21 @@
+{
+  "base": "svg",
+  "aliases": [
+    "icon-alias",
+    "icon-alias2"
+  ],
+  "categories": [
+    "Hosting"
+  ],
+  "update": {
+    "timestamp": "2025-01-05T19:51:34.839639",
+    "author": {
+      "id": 63781622,
+      "login": "Meierschlumpf"
+    }
+  },
+  "colors": {
+    "light": "vercel-from-flow",
+    "dark": "vercel-from-flow-dark"
+  }
+}
